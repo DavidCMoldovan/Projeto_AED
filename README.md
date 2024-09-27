@@ -1,10 +1,8 @@
 # Projeto_AED
 
-Projeto de AED 24/25 
+Projeto de AED 24/25: IST-NAVIGATE 
 
-IST-NAVIGATE 
-
-Objetivo navegar um labirinto com k passos e encontarar caminhos que maximizam a energia 
+Objetivo: navegar um labirinto com k passos e encontarar caminhos que maximizam a energia 
 
 Pt1- 3 Tarefas:
 
