@@ -1,25 +1,25 @@
 # Projeto_AED
 
-Projeto de AED 24/25: IST-NAVIGATE 
+Projeto de AED 24/25: IST-NAVIGATE
 
-Objetivo: navegar um labirinto com k passos e encontarar caminhos que maximizam a energia 
+## Objetivo
+Navegar um labirinto com k passos e encontrar caminhos que maximizem a energia.
 
-Pt1- 3 Tarefas:
+## Parte 1 - 3 Tarefas
 
-Tarefa1- o programa devera identificar o maior valor de energia positivo que no
-mapa dado diste k ou menos passos da posicao inicial
+### Tarefa 1
+O programa deverá identificar o maior valor de energia positivo que no mapa dado diste k ou menos passos da posição inicial.
 
-Tarefa2- o programa devera somar todos os valores de energia positivos das
-celulas dentro do mapa que estejam a uma distancia menor ou igual a k da posicao
-inicial
+### Tarefa 2
+O programa deverá somar todos os valores de energia positivos das células dentro do mapa que estejam a uma distância menor ou igual a k da posição inicial.
 
-Tarefa3-o programa devera produzir o caminho de (l1, c1) ate (l2, c2), percorrendo
-primeiro na vertical e depois na horizontal 
+### Tarefa 3
+O programa deverá produzir o caminho de (l1, c1) até (l2, c2), percorrendo primeiro na vertical e depois na horizontal.
 
-Pt2- 2 Tarefas:
+## Parte 2 - 2 Tarefas
 
-Tarefa1- atingir ou superar um valor de energia dado com exactamente k passos,
-isto e, o aluno tera de ter energia superior a um dado valor apos k passos
+### Tarefa 1
+Atingir ou superar um valor de energia dado com exatamente k passos, isto é, o aluno terá de ter energia superior a um dado valor após k passos.
 
-Tarefa2- atingir a energia maxima possivel com exactamente k passos, isto e, o
-aluno deve terminar com a maxima energia apos k passos
+### Tarefa 2
+Atingir a energia máxima possível com exatamente k passos, isto é, o aluno deve terminar com a máxima energia após k passos.
