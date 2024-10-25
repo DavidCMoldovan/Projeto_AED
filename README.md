@@ -23,3 +23,32 @@ Atingir ou superar um valor de energia dado com exatamente k passos, isto é, o 
 
 ### Tarefa 2
 Atingir a energia máxima possível com exatamente k passos, isto é, o aluno deve terminar com a máxima energia após k passos.
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+# DSA_Project
+
+DSA Project 24/25: IST-NAVIGATE
+
+## Objective
+Navigate a maze with k steps and find paths that maximize energy.
+
+## Part 1 - 3 Tasks
+
+### Task 1
+The program should identify the highest positive energy value within k steps from the initial position on the given map.
+
+### Task 2
+The program should sum all the positive energy values of the cells within the map that are at a distance of k or fewer steps from the initial position.
+
+### Task 3
+The program should produce the path from (l1, c1) to (l2, c2), first moving vertically and then horizontally.
+
+## Part 2 - 2 Tasks
+
+### Task 1
+Reach or exceed a given energy value with exactly k steps, meaning the student must have energy greater than a given value after k steps.
+
+### Task 2
+Achieve the maximum possible energy with exactly k steps, meaning the student should end with the maximum energy after k steps.
